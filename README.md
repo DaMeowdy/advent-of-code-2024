@@ -1,0 +1,2 @@
+# Advent of code 2024 first 5 days
+here are solutions to the first 5 days of advent of code. these solutions aren't optimal. They are either solutions meant to give me an answer the fastest or solutions that are terrible (day2-2.cpp).
